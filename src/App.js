@@ -1,6 +1,9 @@
 import './App.css';
 
+// Components
+import Layout from './components/Layout/Layout';
+
 const App = () => {
-	return <div>App</div>;
+	return <Layout />;
 };
 export default App;
